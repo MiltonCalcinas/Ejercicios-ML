@@ -43,7 +43,7 @@ Se entrenó un **Árbol de Decisión** con ajuste de hiperparámetros mediante `
 
 📌 Se calcularon intervalos de confianza del 95% (aprox.) para los valores de accuracy medios (t-Student).
 
-
+---
 
 ## 📈 Mejor modelo encontrado: max_depth = 2
 
@@ -66,6 +66,12 @@ No     8341
 
 Yes    1659
 
+
+Matriz de Confusión 
+ [[2420   94]
+ [ 206  280]]
+
+---
 
 ## ✅ Conclusión
 
