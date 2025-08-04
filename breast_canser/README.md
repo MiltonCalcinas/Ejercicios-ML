@@ -31,11 +31,11 @@ Esto indica una distribución moderadamente desbalanceada, por lo que se presta 
 
 - Se entrenó un clasificador **AdaBoost** usando como estimador base un árbol de decisión con `max_depth = 2`.
 - Se exploraron distintos valores para `n_estimators` mediante grid search.
-- El mejor resultado se obtuvo con **20 estimadores**, logrando un **99% de accuracy en el conjunto de test**.
+- El mejor resultado se obtuvo con **100 estimadores**, logrando un **99% de accuracy en el conjunto de test**.
 
 ---
 
-## 🧪 Métricas del modelo AdaBoost (con `max_depth = 2`, `n_estimators = 20`)
+## 🧪 Métricas del modelo AdaBoost (con `max_depth = 2`, `n_estimators = 100`)
 
 **Accuracy en test**: `0.9941`
 
